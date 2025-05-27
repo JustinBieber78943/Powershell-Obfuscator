@@ -9,7 +9,7 @@ pip (Comes with Python)
 
 2.Clone Or download the zip
 open cmd
-git clone https://github.com/your-repo/POWAFUSCATOR.git
+git clone https://github.com/JustinBieber78943/Powershell-Obfuscator.git
 cd POWAFUSCATOR
 
 3. Install dependecies
